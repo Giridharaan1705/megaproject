@@ -1,0 +1,28 @@
+<section id="benefits">
+    <center><h style="font-size: 60px;color: rgb(86, 236, 59);">What Benefits can you Gain ?</h></center>
+    <br><br><br><br>
+    <div class="container">
+        <li style="font-size: 35px;color: ivory;">
+            Users can easily acess to the donors for their needs in their locality i.e the user who longing for the 
+        donor who is donating can get information from this site</li><br><br><br><br>
+      </div>
+    </section>
+    <br><br><br><br><br><br><br>
+
+
+
+
+
+<index>
+<div class="box" id="dialog">
+    <div class="title">Almost there</div>
+    <div class="close">X</div>
+    <div class="clear"></div>
+    <div class="content">Thank you for subscribing....</div>
+</div>
+
+                                 <center><button id="showdiolog" type="button" class="btn btn-primary" 
+                                  style="background-color:green;letter-spacing:3px;padding:5px 25px 5px 25px ;
+                                  font-size: 40px; font-weight: 300;
+                                  color: whitesmoke;"><center>Say Thank you! by Clicking this</center></button></a>
+                          
